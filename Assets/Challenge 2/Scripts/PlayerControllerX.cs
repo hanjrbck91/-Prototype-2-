@@ -22,6 +22,7 @@ public class PlayerControllerX : MonoBehaviour
                 Instantiate(dogPrefab, transform.position, dogPrefab.transform.rotation);
                 releaseDog = false;
             }
+            
 
         }
     }
