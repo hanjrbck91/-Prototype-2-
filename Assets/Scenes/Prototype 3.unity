@@ -235,7 +235,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerRb: {fileID: 0}
-  jumpForce: 700
+  jumpForce: 600
   gravityModifier: 1.6
   isOnGround: 1
   gameOver: 0
